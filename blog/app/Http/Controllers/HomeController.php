@@ -19,4 +19,7 @@ class HomeController extends Controller
     public function store(Request $request){
         return view ('input');
     }
+    public function gakjelas(){
+        
+    }
 }
