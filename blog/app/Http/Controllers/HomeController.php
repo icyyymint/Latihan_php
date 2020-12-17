@@ -20,6 +20,6 @@ class HomeController extends Controller
         return view ('input');
     }
     public function gakjelas(){
-        
+        asd;
     }
 }
